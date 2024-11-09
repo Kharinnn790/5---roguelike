@@ -1,0 +1,14 @@
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\bin\Debug\net8.0\ROGALIK_ХаринИлья.exe
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\bin\Debug\net8.0\ROGALIK_ХаринИлья.deps.json
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\bin\Debug\net8.0\ROGALIK_ХаринИлья.runtimeconfig.json
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\bin\Debug\net8.0\ROGALIK_ХаринИлья.dll
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\bin\Debug\net8.0\ROGALIK_ХаринИлья.pdb
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.AssemblyInfoInputs.cache
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.AssemblyInfo.cs
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.dll
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\refint\ROGALIK_ХаринИлья.dll
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.pdb
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ROGALIK_ХаринИлья.genruntimeconfig.cache
+C:\Users\Nastya\source\repos\ROGALIK_ХаринИлья\ROGALIK_ХаринИлья\obj\Debug\net8.0\ref\ROGALIK_ХаринИлья.dll
